@@ -1,0 +1,7 @@
+version: '2'
+services:
+  element_1:
+    image: 'bkimminich/juice-shop:latest'
+    stdin_open: true
+    tty: true
+networks: {}
